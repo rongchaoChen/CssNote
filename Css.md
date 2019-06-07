@@ -117,8 +117,10 @@ background: 背景颜色 背景图片 平铺方式 关联方式 定位方式;
         }
 >
 >>行高和字号
->>> 设置行高:line-height:
-
+>>> 设置行高:line-height: 盒子宽高 <br>
+>>> 如果是多行文字：padding -top:<br>
+>>> padding-bottom:<br>
+>>>box-sizing: boder -box
 
 
 
