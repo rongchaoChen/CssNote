@@ -111,6 +111,10 @@ background: 背景颜色 背景图片 平铺方式 关联方式 定位方式;
 >>> 在企业开发中为了更好的控制盒子宽高和计算盒子，第一件事就是清空默认的内外边距<br>
 >>>*{ margin : 0<br>
 >>>    padding : 0}
+>>>清空默认边距标准写法：
+>>>   body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{
+            margin:0;padding:0
+        }
 
 
 
