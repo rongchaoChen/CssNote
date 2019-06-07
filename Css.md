@@ -101,8 +101,13 @@ background: 背景颜色 背景图片 平铺方式 关联方式 定位方式;
 >
 >>盒子内容居中
 >>>text-align 内容水平居中<br>
->>> text-align: center;<>
-    vertical-align: middle;
-    display: table-cell;
+>>>图片居中<br>
+`text-align: center;`<br>
+` vertical-align: middle;`   
+
+
+
+
+
 
 
