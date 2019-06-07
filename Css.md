@@ -105,7 +105,7 @@ background: 背景颜色 背景图片 平铺方式 关联方式 定位方式;
 `text-align: center;`<br>
 ` vertical-align: middle;`<br> 
 `vertical-align: middle;`  
-
+>>> margin: 0 auto 只是div 盒子居中
 
 
 
