@@ -106,7 +106,11 @@ background: 背景颜色 背景图片 平铺方式 关联方式 定位方式;
 ` vertical-align: middle;`<br> 
 `vertical-align: middle;`  
 >>> margin: 0 auto 只是div 盒子居中
-
+>
+>>清空默认边距（默认内外边距）<br>
+>>> 在企业开发中为了更好的控制盒子宽高和计算盒子，第一件事就是清空默认的内外边距<br>
+>>>*{ margin : 0<br>
+>>>    padding : 0}
 
 
 
