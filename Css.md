@@ -103,7 +103,7 @@ background: 背景颜色 背景图片 平铺方式 关联方式 定位方式;
 >>>text-align 内容水平居中<br>
 >>>图片居中<br>
 `text-align: center;`<br>
-` vertical-align: middle;` 
+` vertical-align: middle;`<br> 
 `vertical-align: middle;`  
 
 
