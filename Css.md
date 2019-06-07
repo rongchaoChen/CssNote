@@ -98,5 +98,11 @@ background: 背景颜色 背景图片 平铺方式 关联方式 定位方式;
 >>> margin 再本质上是用来控制兄弟关系之间的间隙的
 >>> padding 是用来控制父子之间的关系的 <br>
 >>> 在嵌套关系中还可以使用 margin： 0 auto 来控制垂直居中
+>
+>>盒子内容居中
+>>>text-align 内容水平居中<br>
+>>> text-align: center;<>
+    vertical-align: middle;
+    display: table-cell;
 
 
